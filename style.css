@@ -99,11 +99,7 @@
     margin-right: 0.5rem;
     font-size: 1.5rem;
   }
-  
-  #spotify {
-    --link-color: #1DB954;
-  }
-  
+   
   #facebook {
     --link-color: #3C5898;
   }
@@ -129,5 +125,5 @@
   }
 
   #vinted {
-    --link-color: #rgb(51, 51, 51);
+    --link-color: #02d6d6d5;
   }
